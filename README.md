@@ -1,7 +1,7 @@
 # NLW AGENTS 🚀
 
 This is the project from NLW AGENTS, created during the event NLW (Next Level Week) by Rocketseat.
-My eighteen participation in NLW!
+My eight participation in NLW!
 
 ## Technical Information
 
