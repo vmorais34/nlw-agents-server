@@ -7,6 +7,8 @@ My eight participation in NLW!
 
 The project is divided into two main parts: `web` and `server`.
 
+## Node version: 22.16.0
+
 ### Web
 - Built with React, using Vite for development.
 - Utilizes Tailwind CSS for styling and Shadcn UI for components.

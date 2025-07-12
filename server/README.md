@@ -2,8 +2,6 @@
 
 This is the server of the project NLW AGENTS, a project created during the event NLW (Next Level Week) by Rocketseat.
 
-## Node version: 22.16.0
-
 ## Technical Information
 
 * The project uses Fastify as the web framework.
@@ -27,3 +25,7 @@ This is the server of the project NLW AGENTS, a project created during the event
 * Drizzle: a tool to interact with the database.
 * Zod: a library to validate the data.
 * PostgreSQL: a relational database management system.
+
+### How see if extension is running
+
+-  docker exec -it server-nlw-agents-pg-1 psql -U docker -d agents -c "SELECT * FROM pg_extension WHERE extname = 'vector';"

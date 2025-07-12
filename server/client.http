@@ -44,3 +44,13 @@ Content-Type: application/json
 }
 
 ###
+
+# Create Question React 1h 08
+# @name createQuestion
+POST {{baseUrl}}/rooms/<Id-pergunta>/questions
+# Accept: application/json
+Content-Type: application/json
+
+{
+  "questions": "O que é React?"
+}

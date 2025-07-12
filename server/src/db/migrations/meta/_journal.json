@@ -15,6 +15,20 @@
       "when": 1752236450911,
       "tag": "0001_milky_outlaw_kid",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752326502256,
+      "tag": "0002_curious_sue_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752329468409,
+      "tag": "0003_outstanding_fat_cobra",
+      "breakpoints": true
     }
   ]
 }
